@@ -1,0 +1,10 @@
+True 84
+True 96
+True 52
+True 22
+True 75
+True 81
+True 130
+True 55
+True 120
+True 71

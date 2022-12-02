@@ -1,0 +1,3120 @@
+Verifying output for seed = 555
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 1 seed = 555 :	 python3 run_simulator.py --task T2 --random_seed 555 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.0
+Verifying output for seed = 556
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 2 seed = 556 :	 python3 run_simulator.py --task T2 --random_seed 556 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.0
+Verifying output for seed = 557
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 3 seed = 557 :	 python3 run_simulator.py --task T2 --random_seed 557 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.1
+Verifying output for seed = 558
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 4 seed = 558 :	 python3 run_simulator.py --task T2 --random_seed 558 --frames_per_sec 150
+ALL CHECKS PASSED!
+148.9
+Verifying output for seed = 559
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 5 seed = 559 :	 python3 run_simulator.py --task T2 --random_seed 559 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.4
+Verifying output for seed = 560
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 6 seed = 560 :	 python3 run_simulator.py --task T2 --random_seed 560 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.4
+Verifying output for seed = 561
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 7 seed = 561 :	 python3 run_simulator.py --task T2 --random_seed 561 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.0
+Verifying output for seed = 562
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 8 seed = 562 :	 python3 run_simulator.py --task T2 --random_seed 562 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.5
+Verifying output for seed = 563
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 9 seed = 563 :	 python3 run_simulator.py --task T2 --random_seed 563 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.8
+Verifying output for seed = 564
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 10 seed = 564 :	 python3 run_simulator.py --task T2 --random_seed 564 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.8
+Verifying output for seed = 565
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 11 seed = 565 :	 python3 run_simulator.py --task T2 --random_seed 565 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.4
+Verifying output for seed = 566
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 12 seed = 566 :	 python3 run_simulator.py --task T2 --random_seed 566 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.6
+Verifying output for seed = 567
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 13 seed = 567 :	 python3 run_simulator.py --task T2 --random_seed 567 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.7
+Verifying output for seed = 568
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 14 seed = 568 :	 python3 run_simulator.py --task T2 --random_seed 568 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.5
+Verifying output for seed = 569
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 15 seed = 569 :	 python3 run_simulator.py --task T2 --random_seed 569 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.9
+Verifying output for seed = 570
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 16 seed = 570 :	 python3 run_simulator.py --task T2 --random_seed 570 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.5
+Verifying output for seed = 571
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 17 seed = 571 :	 python3 run_simulator.py --task T2 --random_seed 571 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.4
+Verifying output for seed = 572
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 18 seed = 572 :	 python3 run_simulator.py --task T2 --random_seed 572 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.7
+Verifying output for seed = 573
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 19 seed = 573 :	 python3 run_simulator.py --task T2 --random_seed 573 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.7
+Verifying output for seed = 574
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 20 seed = 574 :	 python3 run_simulator.py --task T2 --random_seed 574 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.5
+Verifying output for seed = 575
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 21 seed = 575 :	 python3 run_simulator.py --task T2 --random_seed 575 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.9
+Verifying output for seed = 576
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 22 seed = 576 :	 python3 run_simulator.py --task T2 --random_seed 576 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.0
+Verifying output for seed = 577
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 23 seed = 577 :	 python3 run_simulator.py --task T2 --random_seed 577 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.2
+Verifying output for seed = 578
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 24 seed = 578 :	 python3 run_simulator.py --task T2 --random_seed 578 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.2
+Verifying output for seed = 579
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 25 seed = 579 :	 python3 run_simulator.py --task T2 --random_seed 579 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.1
+Verifying output for seed = 580
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 26 seed = 580 :	 python3 run_simulator.py --task T2 --random_seed 580 --frames_per_sec 150
+ALL CHECKS PASSED!
+102.8
+Verifying output for seed = 581
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 27 seed = 581 :	 python3 run_simulator.py --task T2 --random_seed 581 --frames_per_sec 150
+ALL CHECKS PASSED!
+157.9
+Verifying output for seed = 582
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 28 seed = 582 :	 python3 run_simulator.py --task T2 --random_seed 582 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.5
+Verifying output for seed = 583
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 29 seed = 583 :	 python3 run_simulator.py --task T2 --random_seed 583 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.1
+Verifying output for seed = 584
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 30 seed = 584 :	 python3 run_simulator.py --task T2 --random_seed 584 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.4
+Verifying output for seed = 585
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 31 seed = 585 :	 python3 run_simulator.py --task T2 --random_seed 585 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.7
+Verifying output for seed = 586
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 32 seed = 586 :	 python3 run_simulator.py --task T2 --random_seed 586 --frames_per_sec 150
+ALL CHECKS PASSED!
+101.7
+Verifying output for seed = 587
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 33 seed = 587 :	 python3 run_simulator.py --task T2 --random_seed 587 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.6
+Verifying output for seed = 588
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 34 seed = 588 :	 python3 run_simulator.py --task T2 --random_seed 588 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.9
+Verifying output for seed = 589
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 35 seed = 589 :	 python3 run_simulator.py --task T2 --random_seed 589 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.4
+Verifying output for seed = 590
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 36 seed = 590 :	 python3 run_simulator.py --task T2 --random_seed 590 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.3
+Verifying output for seed = 591
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 37 seed = 591 :	 python3 run_simulator.py --task T2 --random_seed 591 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.7
+Verifying output for seed = 592
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 38 seed = 592 :	 python3 run_simulator.py --task T2 --random_seed 592 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.0
+Verifying output for seed = 593
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 39 seed = 593 :	 python3 run_simulator.py --task T2 --random_seed 593 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.3
+Verifying output for seed = 594
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 40 seed = 594 :	 python3 run_simulator.py --task T2 --random_seed 594 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.2
+Verifying output for seed = 595
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 41 seed = 595 :	 python3 run_simulator.py --task T2 --random_seed 595 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.0
+Verifying output for seed = 596
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 42 seed = 596 :	 python3 run_simulator.py --task T2 --random_seed 596 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.9
+Verifying output for seed = 597
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 43 seed = 597 :	 python3 run_simulator.py --task T2 --random_seed 597 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.8
+Verifying output for seed = 598
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 44 seed = 598 :	 python3 run_simulator.py --task T2 --random_seed 598 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.1
+Verifying output for seed = 599
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 45 seed = 599 :	 python3 run_simulator.py --task T2 --random_seed 599 --frames_per_sec 150
+ALL CHECKS PASSED!
+143.1
+Verifying output for seed = 600
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 46 seed = 600 :	 python3 run_simulator.py --task T2 --random_seed 600 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.3
+Verifying output for seed = 601
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 47 seed = 601 :	 python3 run_simulator.py --task T2 --random_seed 601 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.7
+Verifying output for seed = 602
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 48 seed = 602 :	 python3 run_simulator.py --task T2 --random_seed 602 --frames_per_sec 150
+ALL CHECKS PASSED!
+103.2
+Verifying output for seed = 603
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 49 seed = 603 :	 python3 run_simulator.py --task T2 --random_seed 603 --frames_per_sec 150
+ALL CHECKS PASSED!
+134.9
+Verifying output for seed = 604
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 50 seed = 604 :	 python3 run_simulator.py --task T2 --random_seed 604 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.8
+Verifying output for seed = 605
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 51 seed = 605 :	 python3 run_simulator.py --task T2 --random_seed 605 --frames_per_sec 150
+ALL CHECKS PASSED!
+146.4
+Verifying output for seed = 606
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 52 seed = 606 :	 python3 run_simulator.py --task T2 --random_seed 606 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.7
+Verifying output for seed = 607
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 53 seed = 607 :	 python3 run_simulator.py --task T2 --random_seed 607 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.9
+Verifying output for seed = 608
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 54 seed = 608 :	 python3 run_simulator.py --task T2 --random_seed 608 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.7
+Verifying output for seed = 609
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 55 seed = 609 :	 python3 run_simulator.py --task T2 --random_seed 609 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.8
+Verifying output for seed = 610
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 56 seed = 610 :	 python3 run_simulator.py --task T2 --random_seed 610 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.3
+Verifying output for seed = 611
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 57 seed = 611 :	 python3 run_simulator.py --task T2 --random_seed 611 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.5
+Verifying output for seed = 612
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 58 seed = 612 :	 python3 run_simulator.py --task T2 --random_seed 612 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.5
+Verifying output for seed = 613
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 59 seed = 613 :	 python3 run_simulator.py --task T2 --random_seed 613 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.8
+Verifying output for seed = 614
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 60 seed = 614 :	 python3 run_simulator.py --task T2 --random_seed 614 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.4
+Verifying output for seed = 615
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 61 seed = 615 :	 python3 run_simulator.py --task T2 --random_seed 615 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.5
+Verifying output for seed = 616
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 62 seed = 616 :	 python3 run_simulator.py --task T2 --random_seed 616 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.5
+Verifying output for seed = 617
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 63 seed = 617 :	 python3 run_simulator.py --task T2 --random_seed 617 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.2
+Verifying output for seed = 618
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 64 seed = 618 :	 python3 run_simulator.py --task T2 --random_seed 618 --frames_per_sec 150
+ALL CHECKS PASSED!
+159.9
+Verifying output for seed = 619
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 65 seed = 619 :	 python3 run_simulator.py --task T2 --random_seed 619 --frames_per_sec 150
+ALL CHECKS PASSED!
+171.6
+Verifying output for seed = 620
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 66 seed = 620 :	 python3 run_simulator.py --task T2 --random_seed 620 --frames_per_sec 150
+ALL CHECKS PASSED!
+89.8
+Verifying output for seed = 621
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 67 seed = 621 :	 python3 run_simulator.py --task T2 --random_seed 621 --frames_per_sec 150
+ALL CHECKS PASSED!
+83.6
+Verifying output for seed = 622
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 68 seed = 622 :	 python3 run_simulator.py --task T2 --random_seed 622 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.4
+Verifying output for seed = 623
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 69 seed = 623 :	 python3 run_simulator.py --task T2 --random_seed 623 --frames_per_sec 150
+ALL CHECKS PASSED!
+152.2
+Verifying output for seed = 624
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 70 seed = 624 :	 python3 run_simulator.py --task T2 --random_seed 624 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.1
+Verifying output for seed = 625
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 71 seed = 625 :	 python3 run_simulator.py --task T2 --random_seed 625 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.2
+Verifying output for seed = 626
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 72 seed = 626 :	 python3 run_simulator.py --task T2 --random_seed 626 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.4
+Verifying output for seed = 627
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 73 seed = 627 :	 python3 run_simulator.py --task T2 --random_seed 627 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.8
+Verifying output for seed = 628
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 74 seed = 628 :	 python3 run_simulator.py --task T2 --random_seed 628 --frames_per_sec 150
+ALL CHECKS PASSED!
+149.8
+Verifying output for seed = 629
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 75 seed = 629 :	 python3 run_simulator.py --task T2 --random_seed 629 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.6
+Verifying output for seed = 630
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 76 seed = 630 :	 python3 run_simulator.py --task T2 --random_seed 630 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.8
+Verifying output for seed = 631
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 77 seed = 631 :	 python3 run_simulator.py --task T2 --random_seed 631 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.3
+Verifying output for seed = 632
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 78 seed = 632 :	 python3 run_simulator.py --task T2 --random_seed 632 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.2
+Verifying output for seed = 633
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 79 seed = 633 :	 python3 run_simulator.py --task T2 --random_seed 633 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.1
+Verifying output for seed = 634
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 80 seed = 634 :	 python3 run_simulator.py --task T2 --random_seed 634 --frames_per_sec 150
+ALL CHECKS PASSED!
+113.2
+Verifying output for seed = 635
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 81 seed = 635 :	 python3 run_simulator.py --task T2 --random_seed 635 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.3
+Verifying output for seed = 636
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 82 seed = 636 :	 python3 run_simulator.py --task T2 --random_seed 636 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.1
+Verifying output for seed = 637
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 83 seed = 637 :	 python3 run_simulator.py --task T2 --random_seed 637 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.8
+Verifying output for seed = 638
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 84 seed = 638 :	 python3 run_simulator.py --task T2 --random_seed 638 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.8
+Verifying output for seed = 639
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 85 seed = 639 :	 python3 run_simulator.py --task T2 --random_seed 639 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.0
+Verifying output for seed = 640
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 86 seed = 640 :	 python3 run_simulator.py --task T2 --random_seed 640 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.5
+Verifying output for seed = 641
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 87 seed = 641 :	 python3 run_simulator.py --task T2 --random_seed 641 --frames_per_sec 150
+ALL CHECKS PASSED!
+155.0
+Verifying output for seed = 642
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 88 seed = 642 :	 python3 run_simulator.py --task T2 --random_seed 642 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.2
+Verifying output for seed = 643
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 89 seed = 643 :	 python3 run_simulator.py --task T2 --random_seed 643 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.2
+Verifying output for seed = 644
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 90 seed = 644 :	 python3 run_simulator.py --task T2 --random_seed 644 --frames_per_sec 150
+ALL CHECKS PASSED!
+161.6
+Verifying output for seed = 645
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 91 seed = 645 :	 python3 run_simulator.py --task T2 --random_seed 645 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.2
+Verifying output for seed = 646
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 92 seed = 646 :	 python3 run_simulator.py --task T2 --random_seed 646 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.5
+Verifying output for seed = 647
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 93 seed = 647 :	 python3 run_simulator.py --task T2 --random_seed 647 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.0
+Verifying output for seed = 648
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 94 seed = 648 :	 python3 run_simulator.py --task T2 --random_seed 648 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.3
+Verifying output for seed = 649
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 95 seed = 649 :	 python3 run_simulator.py --task T2 --random_seed 649 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.8
+Verifying output for seed = 650
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 96 seed = 650 :	 python3 run_simulator.py --task T2 --random_seed 650 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.5
+Verifying output for seed = 651
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 97 seed = 651 :	 python3 run_simulator.py --task T2 --random_seed 651 --frames_per_sec 150
+ALL CHECKS PASSED!
+154.3
+Verifying output for seed = 652
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 98 seed = 652 :	 python3 run_simulator.py --task T2 --random_seed 652 --frames_per_sec 150
+ALL CHECKS PASSED!
+156.2
+Verifying output for seed = 653
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 99 seed = 653 :	 python3 run_simulator.py --task T2 --random_seed 653 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.4
+Verifying output for seed = 654
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 100 seed = 654 :	 python3 run_simulator.py --task T2 --random_seed 654 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.6
+Verifying output for seed = 655
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 101 seed = 655 :	 python3 run_simulator.py --task T2 --random_seed 655 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.8
+Verifying output for seed = 656
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 102 seed = 656 :	 python3 run_simulator.py --task T2 --random_seed 656 --frames_per_sec 150
+ALL CHECKS PASSED!
+160.8
+Verifying output for seed = 657
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 103 seed = 657 :	 python3 run_simulator.py --task T2 --random_seed 657 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.0
+Verifying output for seed = 658
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 104 seed = 658 :	 python3 run_simulator.py --task T2 --random_seed 658 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.4
+Verifying output for seed = 659
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 105 seed = 659 :	 python3 run_simulator.py --task T2 --random_seed 659 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.1
+Verifying output for seed = 660
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 106 seed = 660 :	 python3 run_simulator.py --task T2 --random_seed 660 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.9
+Verifying output for seed = 661
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 107 seed = 661 :	 python3 run_simulator.py --task T2 --random_seed 661 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.6
+Verifying output for seed = 662
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 108 seed = 662 :	 python3 run_simulator.py --task T2 --random_seed 662 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.5
+Verifying output for seed = 663
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 109 seed = 663 :	 python3 run_simulator.py --task T2 --random_seed 663 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.6
+Verifying output for seed = 664
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 110 seed = 664 :	 python3 run_simulator.py --task T2 --random_seed 664 --frames_per_sec 150
+ALL CHECKS PASSED!
+160.6
+Verifying output for seed = 665
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 111 seed = 665 :	 python3 run_simulator.py --task T2 --random_seed 665 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.0
+Verifying output for seed = 666
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 112 seed = 666 :	 python3 run_simulator.py --task T2 --random_seed 666 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.3
+Verifying output for seed = 667
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 113 seed = 667 :	 python3 run_simulator.py --task T2 --random_seed 667 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.0
+Verifying output for seed = 668
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 114 seed = 668 :	 python3 run_simulator.py --task T2 --random_seed 668 --frames_per_sec 150
+ALL CHECKS PASSED!
+100.9
+Verifying output for seed = 669
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 115 seed = 669 :	 python3 run_simulator.py --task T2 --random_seed 669 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.4
+Verifying output for seed = 670
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 116 seed = 670 :	 python3 run_simulator.py --task T2 --random_seed 670 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.2
+Verifying output for seed = 671
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 117 seed = 671 :	 python3 run_simulator.py --task T2 --random_seed 671 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.5
+Verifying output for seed = 672
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 118 seed = 672 :	 python3 run_simulator.py --task T2 --random_seed 672 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.5
+Verifying output for seed = 673
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 119 seed = 673 :	 python3 run_simulator.py --task T2 --random_seed 673 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.8
+Verifying output for seed = 674
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 120 seed = 674 :	 python3 run_simulator.py --task T2 --random_seed 674 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.2
+Verifying output for seed = 675
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 121 seed = 675 :	 python3 run_simulator.py --task T2 --random_seed 675 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.6
+Verifying output for seed = 676
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 122 seed = 676 :	 python3 run_simulator.py --task T2 --random_seed 676 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.0
+Verifying output for seed = 677
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 123 seed = 677 :	 python3 run_simulator.py --task T2 --random_seed 677 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.8
+Verifying output for seed = 678
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 124 seed = 678 :	 python3 run_simulator.py --task T2 --random_seed 678 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.9
+Verifying output for seed = 679
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 125 seed = 679 :	 python3 run_simulator.py --task T2 --random_seed 679 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.9
+Verifying output for seed = 680
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 126 seed = 680 :	 python3 run_simulator.py --task T2 --random_seed 680 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.8
+Verifying output for seed = 681
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 127 seed = 681 :	 python3 run_simulator.py --task T2 --random_seed 681 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.6
+Verifying output for seed = 682
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 128 seed = 682 :	 python3 run_simulator.py --task T2 --random_seed 682 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.6
+Verifying output for seed = 683
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 129 seed = 683 :	 python3 run_simulator.py --task T2 --random_seed 683 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.6
+Verifying output for seed = 684
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 130 seed = 684 :	 python3 run_simulator.py --task T2 --random_seed 684 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.4
+Verifying output for seed = 685
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 131 seed = 685 :	 python3 run_simulator.py --task T2 --random_seed 685 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.7
+Verifying output for seed = 686
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 132 seed = 686 :	 python3 run_simulator.py --task T2 --random_seed 686 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.8
+Verifying output for seed = 687
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 133 seed = 687 :	 python3 run_simulator.py --task T2 --random_seed 687 --frames_per_sec 150
+ALL CHECKS PASSED!
+139.4
+Verifying output for seed = 688
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 134 seed = 688 :	 python3 run_simulator.py --task T2 --random_seed 688 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.7
+Verifying output for seed = 689
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 135 seed = 689 :	 python3 run_simulator.py --task T2 --random_seed 689 --frames_per_sec 150
+ALL CHECKS PASSED!
+139.5
+Verifying output for seed = 690
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 136 seed = 690 :	 python3 run_simulator.py --task T2 --random_seed 690 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.3
+Verifying output for seed = 691
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 137 seed = 691 :	 python3 run_simulator.py --task T2 --random_seed 691 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.7
+Verifying output for seed = 692
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 138 seed = 692 :	 python3 run_simulator.py --task T2 --random_seed 692 --frames_per_sec 150
+ALL CHECKS PASSED!
+143.2
+Verifying output for seed = 693
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 139 seed = 693 :	 python3 run_simulator.py --task T2 --random_seed 693 --frames_per_sec 150
+ALL CHECKS PASSED!
+134.0
+Verifying output for seed = 694
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 140 seed = 694 :	 python3 run_simulator.py --task T2 --random_seed 694 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.9
+Verifying output for seed = 695
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 141 seed = 695 :	 python3 run_simulator.py --task T2 --random_seed 695 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.0
+Verifying output for seed = 696
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 142 seed = 696 :	 python3 run_simulator.py --task T2 --random_seed 696 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.7
+Verifying output for seed = 697
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 143 seed = 697 :	 python3 run_simulator.py --task T2 --random_seed 697 --frames_per_sec 150
+ALL CHECKS PASSED!
+103.8
+Verifying output for seed = 698
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 144 seed = 698 :	 python3 run_simulator.py --task T2 --random_seed 698 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.0
+Verifying output for seed = 699
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 145 seed = 699 :	 python3 run_simulator.py --task T2 --random_seed 699 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.7
+Verifying output for seed = 700
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 146 seed = 700 :	 python3 run_simulator.py --task T2 --random_seed 700 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.9
+Verifying output for seed = 701
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 147 seed = 701 :	 python3 run_simulator.py --task T2 --random_seed 701 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.7
+Verifying output for seed = 702
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 148 seed = 702 :	 python3 run_simulator.py --task T2 --random_seed 702 --frames_per_sec 150
+ALL CHECKS PASSED!
+162.9
+Verifying output for seed = 703
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 149 seed = 703 :	 python3 run_simulator.py --task T2 --random_seed 703 --frames_per_sec 150
+ALL CHECKS PASSED!
+152.7
+Verifying output for seed = 704
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 150 seed = 704 :	 python3 run_simulator.py --task T2 --random_seed 704 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.5
+Verifying output for seed = 705
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 151 seed = 705 :	 python3 run_simulator.py --task T2 --random_seed 705 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.6
+Verifying output for seed = 706
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 152 seed = 706 :	 python3 run_simulator.py --task T2 --random_seed 706 --frames_per_sec 150
+ALL CHECKS PASSED!
+161.1
+Verifying output for seed = 707
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 153 seed = 707 :	 python3 run_simulator.py --task T2 --random_seed 707 --frames_per_sec 150
+ALL CHECKS PASSED!
+100.8
+Verifying output for seed = 708
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 154 seed = 708 :	 python3 run_simulator.py --task T2 --random_seed 708 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.8
+Verifying output for seed = 709
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 155 seed = 709 :	 python3 run_simulator.py --task T2 --random_seed 709 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.7
+Verifying output for seed = 710
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 156 seed = 710 :	 python3 run_simulator.py --task T2 --random_seed 710 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.9
+Verifying output for seed = 711
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 157 seed = 711 :	 python3 run_simulator.py --task T2 --random_seed 711 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.6
+Verifying output for seed = 712
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 158 seed = 712 :	 python3 run_simulator.py --task T2 --random_seed 712 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.3
+Verifying output for seed = 713
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 159 seed = 713 :	 python3 run_simulator.py --task T2 --random_seed 713 --frames_per_sec 150
+ALL CHECKS PASSED!
+Car does not reach the road
+115.9
+Verifying output for seed = 714
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 160 seed = 714 :	 python3 run_simulator.py --task T2 --random_seed 714 --frames_per_sec 150
+ALL CHECKS PASSED!
+158.7
+Verifying output for seed = 715
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 161 seed = 715 :	 python3 run_simulator.py --task T2 --random_seed 715 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.6
+Verifying output for seed = 716
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 162 seed = 716 :	 python3 run_simulator.py --task T2 --random_seed 716 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.3
+Verifying output for seed = 717
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 163 seed = 717 :	 python3 run_simulator.py --task T2 --random_seed 717 --frames_per_sec 150
+ALL CHECKS PASSED!
+156.6
+Verifying output for seed = 718
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 164 seed = 718 :	 python3 run_simulator.py --task T2 --random_seed 718 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.0
+Verifying output for seed = 719
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 165 seed = 719 :	 python3 run_simulator.py --task T2 --random_seed 719 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.8
+Verifying output for seed = 720
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 166 seed = 720 :	 python3 run_simulator.py --task T2 --random_seed 720 --frames_per_sec 150
+ALL CHECKS PASSED!
+113.3
+Verifying output for seed = 721
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 167 seed = 721 :	 python3 run_simulator.py --task T2 --random_seed 721 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.1
+Verifying output for seed = 722
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 168 seed = 722 :	 python3 run_simulator.py --task T2 --random_seed 722 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.1
+Verifying output for seed = 723
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 169 seed = 723 :	 python3 run_simulator.py --task T2 --random_seed 723 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.0
+Verifying output for seed = 724
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 170 seed = 724 :	 python3 run_simulator.py --task T2 --random_seed 724 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.9
+Verifying output for seed = 725
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 171 seed = 725 :	 python3 run_simulator.py --task T2 --random_seed 725 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.7
+Verifying output for seed = 726
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 172 seed = 726 :	 python3 run_simulator.py --task T2 --random_seed 726 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.3
+Verifying output for seed = 727
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 173 seed = 727 :	 python3 run_simulator.py --task T2 --random_seed 727 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.2
+Verifying output for seed = 728
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 174 seed = 728 :	 python3 run_simulator.py --task T2 --random_seed 728 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.1
+Verifying output for seed = 729
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 175 seed = 729 :	 python3 run_simulator.py --task T2 --random_seed 729 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.5
+Verifying output for seed = 730
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 176 seed = 730 :	 python3 run_simulator.py --task T2 --random_seed 730 --frames_per_sec 150
+ALL CHECKS PASSED!
+105.2
+Verifying output for seed = 731
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 177 seed = 731 :	 python3 run_simulator.py --task T2 --random_seed 731 --frames_per_sec 150
+ALL CHECKS PASSED!
+144.1
+Verifying output for seed = 732
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 178 seed = 732 :	 python3 run_simulator.py --task T2 --random_seed 732 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.0
+Verifying output for seed = 733
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 179 seed = 733 :	 python3 run_simulator.py --task T2 --random_seed 733 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.7
+Verifying output for seed = 734
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 180 seed = 734 :	 python3 run_simulator.py --task T2 --random_seed 734 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.2
+Verifying output for seed = 735
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 181 seed = 735 :	 python3 run_simulator.py --task T2 --random_seed 735 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.7
+Verifying output for seed = 736
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 182 seed = 736 :	 python3 run_simulator.py --task T2 --random_seed 736 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.6
+Verifying output for seed = 737
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 183 seed = 737 :	 python3 run_simulator.py --task T2 --random_seed 737 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.3
+Verifying output for seed = 738
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 184 seed = 738 :	 python3 run_simulator.py --task T2 --random_seed 738 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.7
+Verifying output for seed = 739
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 185 seed = 739 :	 python3 run_simulator.py --task T2 --random_seed 739 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.4
+Verifying output for seed = 740
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 186 seed = 740 :	 python3 run_simulator.py --task T2 --random_seed 740 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.9
+Verifying output for seed = 741
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 187 seed = 741 :	 python3 run_simulator.py --task T2 --random_seed 741 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.1
+Verifying output for seed = 742
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 188 seed = 742 :	 python3 run_simulator.py --task T2 --random_seed 742 --frames_per_sec 150
+ALL CHECKS PASSED!
+104.1
+Verifying output for seed = 743
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 189 seed = 743 :	 python3 run_simulator.py --task T2 --random_seed 743 --frames_per_sec 150
+ALL CHECKS PASSED!
+148.6
+Verifying output for seed = 744
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 190 seed = 744 :	 python3 run_simulator.py --task T2 --random_seed 744 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.1
+Verifying output for seed = 745
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 191 seed = 745 :	 python3 run_simulator.py --task T2 --random_seed 745 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.3
+Verifying output for seed = 746
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 192 seed = 746 :	 python3 run_simulator.py --task T2 --random_seed 746 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.5
+Verifying output for seed = 747
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 193 seed = 747 :	 python3 run_simulator.py --task T2 --random_seed 747 --frames_per_sec 150
+ALL CHECKS PASSED!
+93.3
+Verifying output for seed = 748
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 194 seed = 748 :	 python3 run_simulator.py --task T2 --random_seed 748 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.0
+Verifying output for seed = 749
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 195 seed = 749 :	 python3 run_simulator.py --task T2 --random_seed 749 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.7
+Verifying output for seed = 750
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 196 seed = 750 :	 python3 run_simulator.py --task T2 --random_seed 750 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.0
+Verifying output for seed = 751
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 197 seed = 751 :	 python3 run_simulator.py --task T2 --random_seed 751 --frames_per_sec 150
+ALL CHECKS PASSED!
+99.8
+Verifying output for seed = 752
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 198 seed = 752 :	 python3 run_simulator.py --task T2 --random_seed 752 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.5
+Verifying output for seed = 753
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 199 seed = 753 :	 python3 run_simulator.py --task T2 --random_seed 753 --frames_per_sec 150
+ALL CHECKS PASSED!
+160.3
+Verifying output for seed = 754
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 200 seed = 754 :	 python3 run_simulator.py --task T2 --random_seed 754 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.8
+Verifying output for seed = 755
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 201 seed = 755 :	 python3 run_simulator.py --task T2 --random_seed 755 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.8
+Verifying output for seed = 756
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 202 seed = 756 :	 python3 run_simulator.py --task T2 --random_seed 756 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.0
+Verifying output for seed = 757
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 203 seed = 757 :	 python3 run_simulator.py --task T2 --random_seed 757 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.4
+Verifying output for seed = 758
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 204 seed = 758 :	 python3 run_simulator.py --task T2 --random_seed 758 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.0
+Verifying output for seed = 759
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 205 seed = 759 :	 python3 run_simulator.py --task T2 --random_seed 759 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.6
+Verifying output for seed = 760
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 206 seed = 760 :	 python3 run_simulator.py --task T2 --random_seed 760 --frames_per_sec 150
+ALL CHECKS PASSED!
+100.0
+Verifying output for seed = 761
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 207 seed = 761 :	 python3 run_simulator.py --task T2 --random_seed 761 --frames_per_sec 150
+ALL CHECKS PASSED!
+105.7
+Verifying output for seed = 762
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 208 seed = 762 :	 python3 run_simulator.py --task T2 --random_seed 762 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.0
+Verifying output for seed = 763
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 209 seed = 763 :	 python3 run_simulator.py --task T2 --random_seed 763 --frames_per_sec 150
+ALL CHECKS PASSED!
+148.7
+Verifying output for seed = 764
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 210 seed = 764 :	 python3 run_simulator.py --task T2 --random_seed 764 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.1
+Verifying output for seed = 765
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 211 seed = 765 :	 python3 run_simulator.py --task T2 --random_seed 765 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.3
+Verifying output for seed = 766
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 212 seed = 766 :	 python3 run_simulator.py --task T2 --random_seed 766 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.9
+Verifying output for seed = 767
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 213 seed = 767 :	 python3 run_simulator.py --task T2 --random_seed 767 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.0
+Verifying output for seed = 768
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 214 seed = 768 :	 python3 run_simulator.py --task T2 --random_seed 768 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.7
+Verifying output for seed = 769
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 215 seed = 769 :	 python3 run_simulator.py --task T2 --random_seed 769 --frames_per_sec 150
+ALL CHECKS PASSED!
+89.6
+Verifying output for seed = 770
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 216 seed = 770 :	 python3 run_simulator.py --task T2 --random_seed 770 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.9
+Verifying output for seed = 771
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 217 seed = 771 :	 python3 run_simulator.py --task T2 --random_seed 771 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.3
+Verifying output for seed = 772
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 218 seed = 772 :	 python3 run_simulator.py --task T2 --random_seed 772 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.2
+Verifying output for seed = 773
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 219 seed = 773 :	 python3 run_simulator.py --task T2 --random_seed 773 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.8
+Verifying output for seed = 774
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 220 seed = 774 :	 python3 run_simulator.py --task T2 --random_seed 774 --frames_per_sec 150
+ALL CHECKS PASSED!
+149.5
+Verifying output for seed = 775
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 221 seed = 775 :	 python3 run_simulator.py --task T2 --random_seed 775 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.3
+Verifying output for seed = 776
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 222 seed = 776 :	 python3 run_simulator.py --task T2 --random_seed 776 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.0
+Verifying output for seed = 777
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 223 seed = 777 :	 python3 run_simulator.py --task T2 --random_seed 777 --frames_per_sec 150
+ALL CHECKS PASSED!
+104.2
+Verifying output for seed = 778
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 224 seed = 778 :	 python3 run_simulator.py --task T2 --random_seed 778 --frames_per_sec 150
+ALL CHECKS PASSED!
+103.6
+Verifying output for seed = 779
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 225 seed = 779 :	 python3 run_simulator.py --task T2 --random_seed 779 --frames_per_sec 150
+ALL CHECKS PASSED!
+134.5
+Verifying output for seed = 780
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 226 seed = 780 :	 python3 run_simulator.py --task T2 --random_seed 780 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.9
+Verifying output for seed = 781
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 227 seed = 781 :	 python3 run_simulator.py --task T2 --random_seed 781 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.9
+Verifying output for seed = 782
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 228 seed = 782 :	 python3 run_simulator.py --task T2 --random_seed 782 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.6
+Verifying output for seed = 783
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 229 seed = 783 :	 python3 run_simulator.py --task T2 --random_seed 783 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.2
+Verifying output for seed = 784
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 230 seed = 784 :	 python3 run_simulator.py --task T2 --random_seed 784 --frames_per_sec 150
+ALL CHECKS PASSED!
+102.5
+Verifying output for seed = 785
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 231 seed = 785 :	 python3 run_simulator.py --task T2 --random_seed 785 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.2
+Verifying output for seed = 786
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 232 seed = 786 :	 python3 run_simulator.py --task T2 --random_seed 786 --frames_per_sec 150
+ALL CHECKS PASSED!
+113.3
+Verifying output for seed = 787
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 233 seed = 787 :	 python3 run_simulator.py --task T2 --random_seed 787 --frames_per_sec 150
+ALL CHECKS PASSED!
+160.1
+Verifying output for seed = 788
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 234 seed = 788 :	 python3 run_simulator.py --task T2 --random_seed 788 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.2
+Verifying output for seed = 789
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 235 seed = 789 :	 python3 run_simulator.py --task T2 --random_seed 789 --frames_per_sec 150
+ALL CHECKS PASSED!
+139.7
+Verifying output for seed = 790
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 236 seed = 790 :	 python3 run_simulator.py --task T2 --random_seed 790 --frames_per_sec 150
+ALL CHECKS PASSED!
+95.1
+Verifying output for seed = 791
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 237 seed = 791 :	 python3 run_simulator.py --task T2 --random_seed 791 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.7
+Verifying output for seed = 792
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 238 seed = 792 :	 python3 run_simulator.py --task T2 --random_seed 792 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.7
+Verifying output for seed = 793
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 239 seed = 793 :	 python3 run_simulator.py --task T2 --random_seed 793 --frames_per_sec 150
+ALL CHECKS PASSED!
+101.2
+Verifying output for seed = 794
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 240 seed = 794 :	 python3 run_simulator.py --task T2 --random_seed 794 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.8
+Verifying output for seed = 795
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 241 seed = 795 :	 python3 run_simulator.py --task T2 --random_seed 795 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.7
+Verifying output for seed = 796
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 242 seed = 796 :	 python3 run_simulator.py --task T2 --random_seed 796 --frames_per_sec 150
+ALL CHECKS PASSED!
+143.5
+Verifying output for seed = 797
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 243 seed = 797 :	 python3 run_simulator.py --task T2 --random_seed 797 --frames_per_sec 150
+ALL CHECKS PASSED!
+146.9
+Verifying output for seed = 798
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 244 seed = 798 :	 python3 run_simulator.py --task T2 --random_seed 798 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.4
+Verifying output for seed = 799
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 245 seed = 799 :	 python3 run_simulator.py --task T2 --random_seed 799 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.4
+Verifying output for seed = 800
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 246 seed = 800 :	 python3 run_simulator.py --task T2 --random_seed 800 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.0
+Verifying output for seed = 801
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 247 seed = 801 :	 python3 run_simulator.py --task T2 --random_seed 801 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.6
+Verifying output for seed = 802
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 248 seed = 802 :	 python3 run_simulator.py --task T2 --random_seed 802 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.6
+Verifying output for seed = 803
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 249 seed = 803 :	 python3 run_simulator.py --task T2 --random_seed 803 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.1
+Verifying output for seed = 804
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 250 seed = 804 :	 python3 run_simulator.py --task T2 --random_seed 804 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.2
+Verifying output for seed = 805
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 251 seed = 805 :	 python3 run_simulator.py --task T2 --random_seed 805 --frames_per_sec 150
+ALL CHECKS PASSED!
+Car does not reach the road
+124.1
+Verifying output for seed = 806
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 252 seed = 806 :	 python3 run_simulator.py --task T2 --random_seed 806 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.8
+Verifying output for seed = 807
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 253 seed = 807 :	 python3 run_simulator.py --task T2 --random_seed 807 --frames_per_sec 150
+ALL CHECKS PASSED!
+98.5
+Verifying output for seed = 808
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 254 seed = 808 :	 python3 run_simulator.py --task T2 --random_seed 808 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.7
+Verifying output for seed = 809
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 255 seed = 809 :	 python3 run_simulator.py --task T2 --random_seed 809 --frames_per_sec 150
+ALL CHECKS PASSED!
+165.0
+Verifying output for seed = 810
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 256 seed = 810 :	 python3 run_simulator.py --task T2 --random_seed 810 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.3
+Verifying output for seed = 811
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 257 seed = 811 :	 python3 run_simulator.py --task T2 --random_seed 811 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.7
+Verifying output for seed = 812
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 258 seed = 812 :	 python3 run_simulator.py --task T2 --random_seed 812 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.7
+Verifying output for seed = 813
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 259 seed = 813 :	 python3 run_simulator.py --task T2 --random_seed 813 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.5
+Verifying output for seed = 814
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 260 seed = 814 :	 python3 run_simulator.py --task T2 --random_seed 814 --frames_per_sec 150
+ALL CHECKS PASSED!
+134.1
+Verifying output for seed = 815
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 261 seed = 815 :	 python3 run_simulator.py --task T2 --random_seed 815 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.3
+Verifying output for seed = 816
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 262 seed = 816 :	 python3 run_simulator.py --task T2 --random_seed 816 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.6
+Verifying output for seed = 817
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 263 seed = 817 :	 python3 run_simulator.py --task T2 --random_seed 817 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.6
+Verifying output for seed = 818
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 264 seed = 818 :	 python3 run_simulator.py --task T2 --random_seed 818 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.8
+Verifying output for seed = 819
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 265 seed = 819 :	 python3 run_simulator.py --task T2 --random_seed 819 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.8
+Verifying output for seed = 820
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 266 seed = 820 :	 python3 run_simulator.py --task T2 --random_seed 820 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.3
+Verifying output for seed = 821
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 267 seed = 821 :	 python3 run_simulator.py --task T2 --random_seed 821 --frames_per_sec 150
+ALL CHECKS PASSED!
+163.3
+Verifying output for seed = 822
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 268 seed = 822 :	 python3 run_simulator.py --task T2 --random_seed 822 --frames_per_sec 150
+ALL CHECKS PASSED!
+162.9
+Verifying output for seed = 823
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 269 seed = 823 :	 python3 run_simulator.py --task T2 --random_seed 823 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.2
+Verifying output for seed = 824
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 270 seed = 824 :	 python3 run_simulator.py --task T2 --random_seed 824 --frames_per_sec 150
+ALL CHECKS PASSED!
+160.4
+Verifying output for seed = 825
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 271 seed = 825 :	 python3 run_simulator.py --task T2 --random_seed 825 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.3
+Verifying output for seed = 826
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 272 seed = 826 :	 python3 run_simulator.py --task T2 --random_seed 826 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.4
+Verifying output for seed = 827
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 273 seed = 827 :	 python3 run_simulator.py --task T2 --random_seed 827 --frames_per_sec 150
+ALL CHECKS PASSED!
+179.3
+Verifying output for seed = 828
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 274 seed = 828 :	 python3 run_simulator.py --task T2 --random_seed 828 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.4
+Verifying output for seed = 829
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 275 seed = 829 :	 python3 run_simulator.py --task T2 --random_seed 829 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.9
+Verifying output for seed = 830
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 276 seed = 830 :	 python3 run_simulator.py --task T2 --random_seed 830 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.2
+Verifying output for seed = 831
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 277 seed = 831 :	 python3 run_simulator.py --task T2 --random_seed 831 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.9
+Verifying output for seed = 832
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 278 seed = 832 :	 python3 run_simulator.py --task T2 --random_seed 832 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.9
+Verifying output for seed = 833
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 279 seed = 833 :	 python3 run_simulator.py --task T2 --random_seed 833 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.4
+Verifying output for seed = 834
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 280 seed = 834 :	 python3 run_simulator.py --task T2 --random_seed 834 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.4
+Verifying output for seed = 835
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 281 seed = 835 :	 python3 run_simulator.py --task T2 --random_seed 835 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.0
+Verifying output for seed = 836
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 282 seed = 836 :	 python3 run_simulator.py --task T2 --random_seed 836 --frames_per_sec 150
+ALL CHECKS PASSED!
+162.5
+Verifying output for seed = 837
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 283 seed = 837 :	 python3 run_simulator.py --task T2 --random_seed 837 --frames_per_sec 150
+ALL CHECKS PASSED!
+163.4
+Verifying output for seed = 838
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 284 seed = 838 :	 python3 run_simulator.py --task T2 --random_seed 838 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.5
+Verifying output for seed = 839
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 285 seed = 839 :	 python3 run_simulator.py --task T2 --random_seed 839 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.4
+Verifying output for seed = 840
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 286 seed = 840 :	 python3 run_simulator.py --task T2 --random_seed 840 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.3
+Verifying output for seed = 841
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 287 seed = 841 :	 python3 run_simulator.py --task T2 --random_seed 841 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.7
+Verifying output for seed = 842
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 288 seed = 842 :	 python3 run_simulator.py --task T2 --random_seed 842 --frames_per_sec 150
+ALL CHECKS PASSED!
+148.6
+Verifying output for seed = 843
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 289 seed = 843 :	 python3 run_simulator.py --task T2 --random_seed 843 --frames_per_sec 150
+ALL CHECKS PASSED!
+151.5
+Verifying output for seed = 844
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 290 seed = 844 :	 python3 run_simulator.py --task T2 --random_seed 844 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.2
+Verifying output for seed = 845
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 291 seed = 845 :	 python3 run_simulator.py --task T2 --random_seed 845 --frames_per_sec 150
+ALL CHECKS PASSED!
+155.2
+Verifying output for seed = 846
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 292 seed = 846 :	 python3 run_simulator.py --task T2 --random_seed 846 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.5
+Verifying output for seed = 847
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 293 seed = 847 :	 python3 run_simulator.py --task T2 --random_seed 847 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.5
+Verifying output for seed = 848
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 294 seed = 848 :	 python3 run_simulator.py --task T2 --random_seed 848 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.3
+Verifying output for seed = 849
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 295 seed = 849 :	 python3 run_simulator.py --task T2 --random_seed 849 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.5
+Verifying output for seed = 850
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 296 seed = 850 :	 python3 run_simulator.py --task T2 --random_seed 850 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.3
+Verifying output for seed = 851
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 297 seed = 851 :	 python3 run_simulator.py --task T2 --random_seed 851 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.6
+Verifying output for seed = 852
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 298 seed = 852 :	 python3 run_simulator.py --task T2 --random_seed 852 --frames_per_sec 150
+ALL CHECKS PASSED!
+101.2
+Verifying output for seed = 853
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 299 seed = 853 :	 python3 run_simulator.py --task T2 --random_seed 853 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.4
+Verifying output for seed = 854
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 300 seed = 854 :	 python3 run_simulator.py --task T2 --random_seed 854 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.9
+Verifying output for seed = 855
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 301 seed = 855 :	 python3 run_simulator.py --task T2 --random_seed 855 --frames_per_sec 150
+ALL CHECKS PASSED!
+169.4
+Verifying output for seed = 856
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 302 seed = 856 :	 python3 run_simulator.py --task T2 --random_seed 856 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.1
+Verifying output for seed = 857
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 303 seed = 857 :	 python3 run_simulator.py --task T2 --random_seed 857 --frames_per_sec 150
+ALL CHECKS PASSED!
+154.5
+Verifying output for seed = 858
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 304 seed = 858 :	 python3 run_simulator.py --task T2 --random_seed 858 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.9
+Verifying output for seed = 859
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 305 seed = 859 :	 python3 run_simulator.py --task T2 --random_seed 859 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.5
+Verifying output for seed = 860
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 306 seed = 860 :	 python3 run_simulator.py --task T2 --random_seed 860 --frames_per_sec 150
+ALL CHECKS PASSED!
+103.2
+Verifying output for seed = 861
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 307 seed = 861 :	 python3 run_simulator.py --task T2 --random_seed 861 --frames_per_sec 150
+ALL CHECKS PASSED!
+179.3
+Verifying output for seed = 862
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 308 seed = 862 :	 python3 run_simulator.py --task T2 --random_seed 862 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.2
+Verifying output for seed = 863
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 309 seed = 863 :	 python3 run_simulator.py --task T2 --random_seed 863 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.4
+Verifying output for seed = 864
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 310 seed = 864 :	 python3 run_simulator.py --task T2 --random_seed 864 --frames_per_sec 150
+ALL CHECKS PASSED!
+Car does not reach the road
+126.3
+Verifying output for seed = 865
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 311 seed = 865 :	 python3 run_simulator.py --task T2 --random_seed 865 --frames_per_sec 150
+ALL CHECKS PASSED!
+Car does not reach the road
+89.9
+Verifying output for seed = 866
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 312 seed = 866 :	 python3 run_simulator.py --task T2 --random_seed 866 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.3
+Verifying output for seed = 867
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 313 seed = 867 :	 python3 run_simulator.py --task T2 --random_seed 867 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.8
+Verifying output for seed = 868
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 314 seed = 868 :	 python3 run_simulator.py --task T2 --random_seed 868 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.5
+Verifying output for seed = 869
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 315 seed = 869 :	 python3 run_simulator.py --task T2 --random_seed 869 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.4
+Verifying output for seed = 870
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 316 seed = 870 :	 python3 run_simulator.py --task T2 --random_seed 870 --frames_per_sec 150
+ALL CHECKS PASSED!
+96.1
+Verifying output for seed = 871
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 317 seed = 871 :	 python3 run_simulator.py --task T2 --random_seed 871 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.9
+Verifying output for seed = 872
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 318 seed = 872 :	 python3 run_simulator.py --task T2 --random_seed 872 --frames_per_sec 150
+ALL CHECKS PASSED!
+116.6
+Verifying output for seed = 873
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 319 seed = 873 :	 python3 run_simulator.py --task T2 --random_seed 873 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.6
+Verifying output for seed = 874
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 320 seed = 874 :	 python3 run_simulator.py --task T2 --random_seed 874 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.6
+Verifying output for seed = 875
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 321 seed = 875 :	 python3 run_simulator.py --task T2 --random_seed 875 --frames_per_sec 150
+ALL CHECKS PASSED!
+109.0
+Verifying output for seed = 876
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 322 seed = 876 :	 python3 run_simulator.py --task T2 --random_seed 876 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.6
+Verifying output for seed = 877
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 323 seed = 877 :	 python3 run_simulator.py --task T2 --random_seed 877 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.2
+Verifying output for seed = 878
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 324 seed = 878 :	 python3 run_simulator.py --task T2 --random_seed 878 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.6
+Verifying output for seed = 879
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 325 seed = 879 :	 python3 run_simulator.py --task T2 --random_seed 879 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.9
+Verifying output for seed = 880
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 326 seed = 880 :	 python3 run_simulator.py --task T2 --random_seed 880 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.5
+Verifying output for seed = 881
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 327 seed = 881 :	 python3 run_simulator.py --task T2 --random_seed 881 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.9
+Verifying output for seed = 882
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 328 seed = 882 :	 python3 run_simulator.py --task T2 --random_seed 882 --frames_per_sec 150
+ALL CHECKS PASSED!
+102.5
+Verifying output for seed = 883
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 329 seed = 883 :	 python3 run_simulator.py --task T2 --random_seed 883 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.1
+Verifying output for seed = 884
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 330 seed = 884 :	 python3 run_simulator.py --task T2 --random_seed 884 --frames_per_sec 150
+ALL CHECKS PASSED!
+103.0
+Verifying output for seed = 885
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 331 seed = 885 :	 python3 run_simulator.py --task T2 --random_seed 885 --frames_per_sec 150
+ALL CHECKS PASSED!
+157.6
+Verifying output for seed = 886
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 332 seed = 886 :	 python3 run_simulator.py --task T2 --random_seed 886 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.0
+Verifying output for seed = 887
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 333 seed = 887 :	 python3 run_simulator.py --task T2 --random_seed 887 --frames_per_sec 150
+ALL CHECKS PASSED!
+101.9
+Verifying output for seed = 888
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 334 seed = 888 :	 python3 run_simulator.py --task T2 --random_seed 888 --frames_per_sec 150
+ALL CHECKS PASSED!
+108.8
+Verifying output for seed = 889
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 335 seed = 889 :	 python3 run_simulator.py --task T2 --random_seed 889 --frames_per_sec 150
+ALL CHECKS PASSED!
+164.5
+Verifying output for seed = 890
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 336 seed = 890 :	 python3 run_simulator.py --task T2 --random_seed 890 --frames_per_sec 150
+ALL CHECKS PASSED!
+142.1
+Verifying output for seed = 891
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 337 seed = 891 :	 python3 run_simulator.py --task T2 --random_seed 891 --frames_per_sec 150
+ALL CHECKS PASSED!
+106.0
+Verifying output for seed = 892
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 338 seed = 892 :	 python3 run_simulator.py --task T2 --random_seed 892 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.5
+Verifying output for seed = 893
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 339 seed = 893 :	 python3 run_simulator.py --task T2 --random_seed 893 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.3
+Verifying output for seed = 894
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 340 seed = 894 :	 python3 run_simulator.py --task T2 --random_seed 894 --frames_per_sec 150
+ALL CHECKS PASSED!
+143.1
+Verifying output for seed = 895
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 341 seed = 895 :	 python3 run_simulator.py --task T2 --random_seed 895 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.0
+Verifying output for seed = 896
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 342 seed = 896 :	 python3 run_simulator.py --task T2 --random_seed 896 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.9
+Verifying output for seed = 897
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 343 seed = 897 :	 python3 run_simulator.py --task T2 --random_seed 897 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.0
+Verifying output for seed = 898
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 344 seed = 898 :	 python3 run_simulator.py --task T2 --random_seed 898 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.7
+Verifying output for seed = 899
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 345 seed = 899 :	 python3 run_simulator.py --task T2 --random_seed 899 --frames_per_sec 150
+ALL CHECKS PASSED!
+161.9
+Verifying output for seed = 900
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 346 seed = 900 :	 python3 run_simulator.py --task T2 --random_seed 900 --frames_per_sec 150
+ALL CHECKS PASSED!
+197.5
+Verifying output for seed = 901
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 347 seed = 901 :	 python3 run_simulator.py --task T2 --random_seed 901 --frames_per_sec 150
+ALL CHECKS PASSED!
+104.9
+Verifying output for seed = 902
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 348 seed = 902 :	 python3 run_simulator.py --task T2 --random_seed 902 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.8
+Verifying output for seed = 903
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 349 seed = 903 :	 python3 run_simulator.py --task T2 --random_seed 903 --frames_per_sec 150
+ALL CHECKS PASSED!
+157.2
+Verifying output for seed = 904
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 350 seed = 904 :	 python3 run_simulator.py --task T2 --random_seed 904 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.3
+Verifying output for seed = 905
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 351 seed = 905 :	 python3 run_simulator.py --task T2 --random_seed 905 --frames_per_sec 150
+ALL CHECKS PASSED!
+93.6
+Verifying output for seed = 906
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 352 seed = 906 :	 python3 run_simulator.py --task T2 --random_seed 906 --frames_per_sec 150
+ALL CHECKS PASSED!
+137.0
+Verifying output for seed = 907
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 353 seed = 907 :	 python3 run_simulator.py --task T2 --random_seed 907 --frames_per_sec 150
+ALL CHECKS PASSED!
+105.3
+Verifying output for seed = 908
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 354 seed = 908 :	 python3 run_simulator.py --task T2 --random_seed 908 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.0
+Verifying output for seed = 909
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 355 seed = 909 :	 python3 run_simulator.py --task T2 --random_seed 909 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.8
+Verifying output for seed = 910
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 356 seed = 910 :	 python3 run_simulator.py --task T2 --random_seed 910 --frames_per_sec 150
+ALL CHECKS PASSED!
+134.7
+Verifying output for seed = 911
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 357 seed = 911 :	 python3 run_simulator.py --task T2 --random_seed 911 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.0
+Verifying output for seed = 912
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 358 seed = 912 :	 python3 run_simulator.py --task T2 --random_seed 912 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.9
+Verifying output for seed = 913
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 359 seed = 913 :	 python3 run_simulator.py --task T2 --random_seed 913 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.8
+Verifying output for seed = 914
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 360 seed = 914 :	 python3 run_simulator.py --task T2 --random_seed 914 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.5
+Verifying output for seed = 915
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 361 seed = 915 :	 python3 run_simulator.py --task T2 --random_seed 915 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.7
+Verifying output for seed = 916
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 362 seed = 916 :	 python3 run_simulator.py --task T2 --random_seed 916 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.2
+Verifying output for seed = 917
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 363 seed = 917 :	 python3 run_simulator.py --task T2 --random_seed 917 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.4
+Verifying output for seed = 918
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 364 seed = 918 :	 python3 run_simulator.py --task T2 --random_seed 918 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.0
+Verifying output for seed = 919
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 365 seed = 919 :	 python3 run_simulator.py --task T2 --random_seed 919 --frames_per_sec 150
+ALL CHECKS PASSED!
+156.0
+Verifying output for seed = 920
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 366 seed = 920 :	 python3 run_simulator.py --task T2 --random_seed 920 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.7
+Verifying output for seed = 921
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 367 seed = 921 :	 python3 run_simulator.py --task T2 --random_seed 921 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.1
+Verifying output for seed = 922
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 368 seed = 922 :	 python3 run_simulator.py --task T2 --random_seed 922 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.5
+Verifying output for seed = 923
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 369 seed = 923 :	 python3 run_simulator.py --task T2 --random_seed 923 --frames_per_sec 150
+ALL CHECKS PASSED!
+144.0
+Verifying output for seed = 924
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 370 seed = 924 :	 python3 run_simulator.py --task T2 --random_seed 924 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.4
+Verifying output for seed = 925
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 371 seed = 925 :	 python3 run_simulator.py --task T2 --random_seed 925 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.1
+Verifying output for seed = 926
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 372 seed = 926 :	 python3 run_simulator.py --task T2 --random_seed 926 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.4
+Verifying output for seed = 927
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 373 seed = 927 :	 python3 run_simulator.py --task T2 --random_seed 927 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.9
+Verifying output for seed = 928
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 374 seed = 928 :	 python3 run_simulator.py --task T2 --random_seed 928 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.0
+Verifying output for seed = 929
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 375 seed = 929 :	 python3 run_simulator.py --task T2 --random_seed 929 --frames_per_sec 150
+ALL CHECKS PASSED!
+150.8
+Verifying output for seed = 930
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 376 seed = 930 :	 python3 run_simulator.py --task T2 --random_seed 930 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.3
+Verifying output for seed = 931
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 377 seed = 931 :	 python3 run_simulator.py --task T2 --random_seed 931 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.6
+Verifying output for seed = 932
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 378 seed = 932 :	 python3 run_simulator.py --task T2 --random_seed 932 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.0
+Verifying output for seed = 933
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 379 seed = 933 :	 python3 run_simulator.py --task T2 --random_seed 933 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.9
+Verifying output for seed = 934
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 380 seed = 934 :	 python3 run_simulator.py --task T2 --random_seed 934 --frames_per_sec 150
+ALL CHECKS PASSED!
+132.7
+Verifying output for seed = 935
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 381 seed = 935 :	 python3 run_simulator.py --task T2 --random_seed 935 --frames_per_sec 150
+ALL CHECKS PASSED!
+129.6
+Verifying output for seed = 936
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 382 seed = 936 :	 python3 run_simulator.py --task T2 --random_seed 936 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.8
+Verifying output for seed = 937
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 383 seed = 937 :	 python3 run_simulator.py --task T2 --random_seed 937 --frames_per_sec 150
+ALL CHECKS PASSED!
+121.6
+Verifying output for seed = 938
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 384 seed = 938 :	 python3 run_simulator.py --task T2 --random_seed 938 --frames_per_sec 150
+ALL CHECKS PASSED!
+123.7
+Verifying output for seed = 939
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 385 seed = 939 :	 python3 run_simulator.py --task T2 --random_seed 939 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.1
+Verifying output for seed = 940
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 386 seed = 940 :	 python3 run_simulator.py --task T2 --random_seed 940 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.9
+Verifying output for seed = 941
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 387 seed = 941 :	 python3 run_simulator.py --task T2 --random_seed 941 --frames_per_sec 150
+ALL CHECKS PASSED!
+98.9
+Verifying output for seed = 942
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 388 seed = 942 :	 python3 run_simulator.py --task T2 --random_seed 942 --frames_per_sec 150
+ALL CHECKS PASSED!
+169.8
+Verifying output for seed = 943
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 389 seed = 943 :	 python3 run_simulator.py --task T2 --random_seed 943 --frames_per_sec 150
+ALL CHECKS PASSED!
+111.6
+Verifying output for seed = 944
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 390 seed = 944 :	 python3 run_simulator.py --task T2 --random_seed 944 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.5
+Verifying output for seed = 945
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 391 seed = 945 :	 python3 run_simulator.py --task T2 --random_seed 945 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.4
+Verifying output for seed = 946
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 392 seed = 946 :	 python3 run_simulator.py --task T2 --random_seed 946 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.4
+Verifying output for seed = 947
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 393 seed = 947 :	 python3 run_simulator.py --task T2 --random_seed 947 --frames_per_sec 150
+ALL CHECKS PASSED!
+120.1
+Verifying output for seed = 948
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 394 seed = 948 :	 python3 run_simulator.py --task T2 --random_seed 948 --frames_per_sec 150
+ALL CHECKS PASSED!
+100.2
+Verifying output for seed = 949
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 395 seed = 949 :	 python3 run_simulator.py --task T2 --random_seed 949 --frames_per_sec 150
+ALL CHECKS PASSED!
+110.0
+Verifying output for seed = 950
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 396 seed = 950 :	 python3 run_simulator.py --task T2 --random_seed 950 --frames_per_sec 150
+ALL CHECKS PASSED!
+131.8
+Verifying output for seed = 951
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 397 seed = 951 :	 python3 run_simulator.py --task T2 --random_seed 951 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.1
+Verifying output for seed = 952
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 398 seed = 952 :	 python3 run_simulator.py --task T2 --random_seed 952 --frames_per_sec 150
+ALL CHECKS PASSED!
+94.4
+Verifying output for seed = 953
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 399 seed = 953 :	 python3 run_simulator.py --task T2 --random_seed 953 --frames_per_sec 150
+ALL CHECKS PASSED!
+112.2
+Verifying output for seed = 954
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 400 seed = 954 :	 python3 run_simulator.py --task T2 --random_seed 954 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.6
+Verifying output for seed = 955
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 401 seed = 955 :	 python3 run_simulator.py --task T2 --random_seed 955 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.7
+Verifying output for seed = 956
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 402 seed = 956 :	 python3 run_simulator.py --task T2 --random_seed 956 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.4
+Verifying output for seed = 957
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 403 seed = 957 :	 python3 run_simulator.py --task T2 --random_seed 957 --frames_per_sec 150
+ALL CHECKS PASSED!
+126.6
+Verifying output for seed = 958
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 404 seed = 958 :	 python3 run_simulator.py --task T2 --random_seed 958 --frames_per_sec 150
+ALL CHECKS PASSED!
+146.3
+Verifying output for seed = 959
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 405 seed = 959 :	 python3 run_simulator.py --task T2 --random_seed 959 --frames_per_sec 150
+ALL CHECKS PASSED!
+139.9
+Verifying output for seed = 960
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 406 seed = 960 :	 python3 run_simulator.py --task T2 --random_seed 960 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.0
+Verifying output for seed = 961
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 407 seed = 961 :	 python3 run_simulator.py --task T2 --random_seed 961 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.6
+Verifying output for seed = 962
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 408 seed = 962 :	 python3 run_simulator.py --task T2 --random_seed 962 --frames_per_sec 150
+ALL CHECKS PASSED!
+128.6
+Verifying output for seed = 963
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 409 seed = 963 :	 python3 run_simulator.py --task T2 --random_seed 963 --frames_per_sec 150
+ALL CHECKS PASSED!
+114.7
+Verifying output for seed = 964
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 410 seed = 964 :	 python3 run_simulator.py --task T2 --random_seed 964 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.8
+Verifying output for seed = 965
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 411 seed = 965 :	 python3 run_simulator.py --task T2 --random_seed 965 --frames_per_sec 150
+ALL CHECKS PASSED!
+135.6
+Verifying output for seed = 966
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 412 seed = 966 :	 python3 run_simulator.py --task T2 --random_seed 966 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.4
+Verifying output for seed = 967
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 413 seed = 967 :	 python3 run_simulator.py --task T2 --random_seed 967 --frames_per_sec 150
+ALL CHECKS PASSED!
+105.8
+Verifying output for seed = 968
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 414 seed = 968 :	 python3 run_simulator.py --task T2 --random_seed 968 --frames_per_sec 150
+ALL CHECKS PASSED!
+157.9
+Verifying output for seed = 969
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 415 seed = 969 :	 python3 run_simulator.py --task T2 --random_seed 969 --frames_per_sec 150
+ALL CHECKS PASSED!
+150.5
+Verifying output for seed = 970
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 416 seed = 970 :	 python3 run_simulator.py --task T2 --random_seed 970 --frames_per_sec 150
+ALL CHECKS PASSED!
+124.6
+Verifying output for seed = 971
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 417 seed = 971 :	 python3 run_simulator.py --task T2 --random_seed 971 --frames_per_sec 150
+ALL CHECKS PASSED!
+115.8
+Verifying output for seed = 972
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 418 seed = 972 :	 python3 run_simulator.py --task T2 --random_seed 972 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.2
+Verifying output for seed = 973
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 419 seed = 973 :	 python3 run_simulator.py --task T2 --random_seed 973 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.9
+Verifying output for seed = 974
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 420 seed = 974 :	 python3 run_simulator.py --task T2 --random_seed 974 --frames_per_sec 150
+ALL CHECKS PASSED!
+138.9
+Verifying output for seed = 975
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 421 seed = 975 :	 python3 run_simulator.py --task T2 --random_seed 975 --frames_per_sec 150
+ALL CHECKS PASSED!
+162.5
+Verifying output for seed = 976
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 422 seed = 976 :	 python3 run_simulator.py --task T2 --random_seed 976 --frames_per_sec 150
+ALL CHECKS PASSED!
+133.0
+Verifying output for seed = 977
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 423 seed = 977 :	 python3 run_simulator.py --task T2 --random_seed 977 --frames_per_sec 150
+ALL CHECKS PASSED!
+122.8
+Verifying output for seed = 978
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 424 seed = 978 :	 python3 run_simulator.py --task T2 --random_seed 978 --frames_per_sec 150
+ALL CHECKS PASSED!
+107.1
+Verifying output for seed = 979
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 425 seed = 979 :	 python3 run_simulator.py --task T2 --random_seed 979 --frames_per_sec 150
+ALL CHECKS PASSED!
+139.7
+Verifying output for seed = 980
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 426 seed = 980 :	 python3 run_simulator.py --task T2 --random_seed 980 --frames_per_sec 150
+ALL CHECKS PASSED!
+145.2
+Verifying output for seed = 981
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 427 seed = 981 :	 python3 run_simulator.py --task T2 --random_seed 981 --frames_per_sec 150
+ALL CHECKS PASSED!
+118.6
+Verifying output for seed = 982
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 428 seed = 982 :	 python3 run_simulator.py --task T2 --random_seed 982 --frames_per_sec 150
+ALL CHECKS PASSED!
+176.3
+Verifying output for seed = 983
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 429 seed = 983 :	 python3 run_simulator.py --task T2 --random_seed 983 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.2
+Verifying output for seed = 984
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 430 seed = 984 :	 python3 run_simulator.py --task T2 --random_seed 984 --frames_per_sec 150
+ALL CHECKS PASSED!
+119.4
+Verifying output for seed = 985
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 431 seed = 985 :	 python3 run_simulator.py --task T2 --random_seed 985 --frames_per_sec 150
+ALL CHECKS PASSED!
+150.2
+Verifying output for seed = 986
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 432 seed = 986 :	 python3 run_simulator.py --task T2 --random_seed 986 --frames_per_sec 150
+ALL CHECKS PASSED!
+127.1
+Verifying output for seed = 987
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 433 seed = 987 :	 python3 run_simulator.py --task T2 --random_seed 987 --frames_per_sec 150
+ALL CHECKS PASSED!
+125.1
+Verifying output for seed = 988
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 434 seed = 988 :	 python3 run_simulator.py --task T2 --random_seed 988 --frames_per_sec 150
+ALL CHECKS PASSED!
+141.9
+Verifying output for seed = 989
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 435 seed = 989 :	 python3 run_simulator.py --task T2 --random_seed 989 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.8
+Verifying output for seed = 990
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 436 seed = 990 :	 python3 run_simulator.py --task T2 --random_seed 990 --frames_per_sec 150
+ALL CHECKS PASSED!
+105.8
+Verifying output for seed = 991
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 437 seed = 991 :	 python3 run_simulator.py --task T2 --random_seed 991 --frames_per_sec 150
+ALL CHECKS PASSED!
+117.8
+Verifying output for seed = 992
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 438 seed = 992 :	 python3 run_simulator.py --task T2 --random_seed 992 --frames_per_sec 150
+ALL CHECKS PASSED!
+130.8
+Verifying output for seed = 993
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 439 seed = 993 :	 python3 run_simulator.py --task T2 --random_seed 993 --frames_per_sec 150
+ALL CHECKS PASSED!
+153.9
+Verifying output for seed = 994
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 440 seed = 994 :	 python3 run_simulator.py --task T2 --random_seed 994 --frames_per_sec 150
+ALL CHECKS PASSED!
+136.4
+Verifying output for seed = 995
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 441 seed = 995 :	 python3 run_simulator.py --task T2 --random_seed 995 --frames_per_sec 150
+ALL CHECKS PASSED!
+140.8
+Verifying output for seed = 996
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 442 seed = 996 :	 python3 run_simulator.py --task T2 --random_seed 996 --frames_per_sec 150
+ALL CHECKS PASSED!
+147.3
+Verifying output for seed = 997
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 443 seed = 997 :	 python3 run_simulator.py --task T2 --random_seed 997 --frames_per_sec 150
+ALL CHECKS PASSED!
+156.4
+Verifying output for seed = 998
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 444 seed = 998 :	 python3 run_simulator.py --task T2 --random_seed 998 --frames_per_sec 150
+ALL CHECKS PASSED!
+143.4
+Verifying output for seed = 999
+
+
+ ----------------------------------------------------------------------------------------------------
+Test case 445 seed = 999 :	 python3 run_simulator.py --task T2 --random_seed 999 --frames_per_sec 150
+ALL CHECKS PASSED!
+154.3
+Marks awarded: 110.85/2.5
